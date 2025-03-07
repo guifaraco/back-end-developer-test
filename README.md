@@ -1,4 +1,4 @@
-# Resposta Ao Desafio Desenvolvedor Back-End Júnior 👩‍💻
+# Desenvolvedor Back-End Júnior 👩‍💻
 
 Agradecemos seu interesse em se tornar parte da nossa equipe!
 
