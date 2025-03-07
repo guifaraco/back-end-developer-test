@@ -1,6 +1,4 @@
-# back-end-developer-test
-Resposta do teste da gdm
-# Desafio Desenvolvedor Back-End Júnior 👩‍💻
+# Resposta Ao Desafio Desenvolvedor Back-End Júnior 👩‍💻
 
 Agradecemos seu interesse em se tornar parte da nossa equipe!
 
